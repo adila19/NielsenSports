@@ -8,3 +8,7 @@ libraries for backend like RESTAssured, Jackson DataBind and others depending on
 
 It's a Maven project and all the libraries necessary to run the project are in the POM xml. I used Cucumber as BDD and Selenium for automation of the UI. 
 The scripting language I used is Java. 
+
+The tests are running using Junit and also it is used for assertions. 
+
+For reporting purposes I use Maven Cucumber plugin
